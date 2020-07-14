@@ -1,0 +1,35 @@
+p {font-family: Arial, sans-serif; color: #0000FF; font-size: 130%; }
+
+hl {color: yellow}
+
+sub {font-size: 70%}
+
+h1 {font-family: Roboto, sans-serif; color: #66FF33; font-size: 180%; line-height: 0.3; }
+h2 {font-family: Roboto, sans-serif; color: yellow; font-size: 140%; line-height: 0.5; }
+h3 {font-family: Roboto, sans-serif; color: #AAAAAA; font-size: 120%; line-height: 0.4; }
+
+<style>
+a:link {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: cyan;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+</style>
