@@ -26,7 +26,7 @@
 	ctx.fillRect(0,0,584,122);
 
 	// Draw logo
-    var img = new Image();
+   	var img = new Image();
 	img.onload = function() {
    		ctx.drawImage(img,240,0);
 	};
